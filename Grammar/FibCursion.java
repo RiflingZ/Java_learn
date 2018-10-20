@@ -1,6 +1,6 @@
 package Java_learn.Grammar;
 
-public class fibo_cursion {
+public class FibCursion {
     public static  void main(String[] args){
         System.out.println(f(20));
     }

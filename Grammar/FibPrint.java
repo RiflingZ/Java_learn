@@ -1,8 +1,8 @@
 package Java_learn.Grammar;
 
-public class Demo3 {
+public class FibPrint {
     // 使用递归方法
-    private static int getFibo(int i) {
+    private static long getFibo(int i) {
         if (i == 1 || i == 2)
             return 1;
         else
